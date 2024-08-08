@@ -1,7 +1,7 @@
 # Trojan-virus-using-kali
 https://acrobat.adobe.com/id/urn:aaid:sc:AP:69d7d7ca-2852-4fa6-9573-27679202ec5f
 
-Use above link to see practical implications and theory part.
+Use above link to see practical implimentation  and theory part.
 
 Creating TROJAN Virus in Kali linux 
 
